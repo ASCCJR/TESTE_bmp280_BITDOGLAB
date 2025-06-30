@@ -1,3 +1,11 @@
+/**
+ * @file bmp280.h
+ * @brief Define a interface pública (API) para o driver do sensor de pressão e temperatura BMP280.
+ *
+ * Este arquivo de cabeçalho declara as estruturas de dados e as funções que
+ * podem ser chamadas por outras partes do sistema para interagir com o sensor.
+ */
+
 #ifndef BMP280_H
 #define BMP280_H
 
