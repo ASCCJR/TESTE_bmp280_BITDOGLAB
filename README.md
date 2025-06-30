@@ -4,7 +4,7 @@
 ![Plataforma](https://img.shields.io/badge/Plataforma-Raspberry%20Pi%20Pico-purple.svg)
 ![Sensor](https://img.shields.io/badge/Sensor-BMP280-blueviolet.svg)
 
-Este repositório contém um código teste para o sensor de pressão atmosférica e temperatura BMP280, da Bosch. O código foi desenvolvido em C para o Raspberry Pi Pico (BITDOGLAB)
+Este repositório contém um código teste para o sensor de pressão atmosférica e temperatura BMP280, da Bosch. O código foi desenvolvido em C para o Raspberry Pi Pico (BITDOGLAB).
 
 O projeto demonstra a implementação de um driver de sensor complexo, que lida com a leitura de dados de calibração de fábrica e a aplicação de fórmulas de compensação para garantir medições precisas. A arquitetura modular separa claramente o driver do sensor da aplicação principal, facilitando sua reutilização em outros projetos.
 
