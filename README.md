@@ -65,4 +65,4 @@ Pressao: 1012.63 hPa  |  Temperatura: 30.27 C
 
 ✍️ Autor
 
-  ASCCJR
+  [ASCCJR]
